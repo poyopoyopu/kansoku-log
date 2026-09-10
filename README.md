@@ -1,0 +1,2 @@
+# kansoku-log
+ARGテスト
